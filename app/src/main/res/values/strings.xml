@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProyectoGrupo8</string>
+    <string name="title_activity_user_register">Activity_user_register</string>
+    <string name="title_activity_activity3_categorias">Activity3_categorias</string>
+</resources>
